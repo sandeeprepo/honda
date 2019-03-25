@@ -1,0 +1,10 @@
+  class x
+	{
+		int a = 20;
+	{
+	public static void main (String args[])
+	{
+	 for a=0;a<=10;a++
+	System.out.println("a");
+	}}} 	
+
