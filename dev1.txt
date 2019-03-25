@@ -1,0 +1,11 @@
+   Class X
+	{
+	 int a = 10 ;
+       
+       public Static void main(String args[])
+	{
+	 for a=0 ; a<=10 ; a++
+	 System.out.println("a");
+	}
+	}
+ 		
